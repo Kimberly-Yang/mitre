@@ -7,6 +7,8 @@ OG=(MITRE Corporation) AND PY=2017
 Indexes=SCI-EXPANDED, SSCI, A&HCI, CPCI-S, CPCI-SSH, BKCI-S, BKCI-SSH, ESCI, CCR-EXPANDED, IC Timespan=All years
 2017 search yields 128 results exported to wos-mitre-2017-128-results.ris 78 imported to Mitre-Library.enl with 50 autodedupes moved to Mitre-Library=-dupl
 
+2018 search yields 101 results, (102 results subtracted correction)
+
 Group Author Searches yield zero results for both 2016 and 2017
 GP=("MITRE CORP" OR "THE MITRE CORP" OR "MITRE CORPORATION") AND PY=(2016 OR 2017)
  Databases= WOS, BCI, BIOSIS, CCC, DRCI, DIIDW, KJD, MEDLINE, RSCI, SCIELO, ZOOREC Timespan=All years
